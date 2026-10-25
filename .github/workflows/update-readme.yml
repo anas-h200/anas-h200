@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,3 +20,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GH_USERNAME: anas-h200
+          MAX_LINES: 5
+          COMMIT_MSG: "Update recent activity"
