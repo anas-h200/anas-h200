@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=34&pause=1000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Anas+Hasan+%F0%9F%91%8B">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=34&pause=1000&repeat=false&color=24292F&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Anas+Hasan+%F0%9F%91%8B" alt="Hey, I'm Anas Hasan" />
-  </picture>
-</p>
+<h1 align="center">Hey, I'm Anas Hasan 👋🏻</h1>
 
 <p align="center">
   M.Tech CSE at Punjab Engineering College. GATE 2026 qualified, IEEE published.<br/>
