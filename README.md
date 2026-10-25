@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=34&pause=1000&repeat=false&color=24292F&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Anas+Hasan+%F0%9F%91%8B" alt="Hey, I'm Anas Hasan" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=34&pause=1000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Anas+Hasan+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=34&pause=1000&repeat=false&color=24292F&center=true&vCenter=true&width=700&height=60&lines=Hey,+I'm+Anas+Hasan+%F0%9F%91%8B" alt="Hey, I'm Anas Hasan" />
+  </picture>
 </p>
 
 <p align="center">
